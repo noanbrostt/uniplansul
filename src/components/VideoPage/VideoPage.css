@@ -1,0 +1,15 @@
+/* src/components/VideoPage.css */
+
+.video-page {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f4f4f4;
+  }
+  
+  video {
+    max-width: 90%;
+    border-radius: 8px;
+  }
+  
